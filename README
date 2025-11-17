@@ -12,3 +12,5 @@ created and removes it automatically.
 if you want to use it, you should attach it to your
 desktop environment or your shell config. it has to
 be running in the background (takes about 3Mb of memory while idle).
+
+note that `inotify-tools` is required.
