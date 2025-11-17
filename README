@@ -1,0 +1,14 @@
+watchdog
+--------
+
+all kinds of browsers tend to create a `Downloads/` directory
+in the `home/` directory regardless of your settings.
+
+i have tried lots of different settings and browsers,
+and i couldn't stop them from creating the very annoying directory.
+so this is a script that just watches if it's
+created and removes it automatically.
+
+if you want to use it, you should attach it to your
+desktop environment or your shell config. it has to
+be running in the background (takes about 3Mb of memory while idle).
